@@ -1,4 +1,5 @@
 # Library-Management-System
+
 ## Overview
 The Library Management System is a database project designed to keep track of all information about books in a library, including their cost, status, and availability. It also manages information about library branches, employees, customers, book issues, and returns. This project is implemented using SQL, and it ensures efficient and organized management of library resources.
 
